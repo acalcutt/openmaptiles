@@ -20,11 +20,6 @@ set -o nounset
 # to list areas :  make download-geofabrik-list
 # see more QUICKSTART.md
 #
-
-osm_area=planet
-PBF=planet-latest.osm.pbf
-PBF_BASE=http://planet.osm.org/pbf/
-
 AREA=Planet
 PBF=planet-latest.osm.pbf
 PBF_BASE=http://planet.osm.org/pbf/
